@@ -42,13 +42,10 @@ function Banner() {
 
       <h2 className="text-slate-800 my-5 text-3xl text-center md:w-2/3 mx-auto">
         Para que puedas comenzar a usar la aplicación, utiliza las siguientes
-        credenciales:
+        credenciales que estan dentro del Doc en la carpeta enviada a busqueda2019@pragmasoft.com.ar
       </h2>
 
-      <p className="text-lg text-slate-800 text-center">Usuario: pragmasoft</p>
-      <p className="text-lg text-slate-800 text-center">
-        Contraseña: desafio2023
-      </p>
+  
       <h2 className="text-slate-800  my-5 text-3xl text-center md:w-2/3 mx-auto">
         Espero que esta aplicación les agrade y cumpla con los requisitos
         establecidos.
